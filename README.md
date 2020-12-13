@@ -1,2 +1,2 @@
 # Matlab-files
-A collection of matlab scripts and function files from university. 
+A selection of matlab scripts and function files from university. 
